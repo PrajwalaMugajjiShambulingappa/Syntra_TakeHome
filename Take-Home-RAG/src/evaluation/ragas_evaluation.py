@@ -33,39 +33,6 @@ retrieval_chain = RunnableParallel({
     "options": RunnablePassthrough()
 })
 
-'''samples = [
-    {
-        "question": "Olivia experienced persistent acid reflux despite medication. Her gastroenterologist scheduled an esophagogastroduodenoscopy (EGD) with biopsy. Which CPT code represents this procedure?",
-        "options": "A. 43235\nB. 43239\nC. 43248\nD. 43245",
-        "ground_truth": "B. 43239",
-        "explanation": "CPT code 43239 represents an EGD with biopsy, single or multiple. Code 43235 is for EGD without biopsy, and the others involve different interventions such as dilation or stent placement."
-    },
-    {
-        "question": "Matthew has been diagnosed with obstructive sleep apnea and requires a full-face CPAP mask for nighttime breathing assistance. Which HCPCS Level II code corresponds to a full-face CPAP mask?",
-        "options": "A. A7030\nB. A7031\nC. A7032\nD. A7034",
-        "ground_truth": "A. A7030",
-        "explanation": "HCPCS code A7030 refers to a full-face CPAP mask, used for delivering positive airway pressure to both the nose and mouth. The other codes are for components such as cushions or nasal masks."
-    },
-    {
-        "question": "After experiencing visual disturbances, Ava underwent a fluorescein angiography to evaluate the blood flow in her retina. Which CPT code represents this imaging procedure?",
-        "options": "A. 92235\nB. 92250\nC. 92133\nD. 92240",
-        "ground_truth": "A. 92235",
-        "explanation": "CPT 92235 is specific to fluorescein angiography with interpretation and report. Code 92250 is for fundus photography, 92133 is for scanning optic nerve imaging, and 92240 is for indocyanine-green angiography."
-    },
-    {
-        "question": "During a routine prenatal visit, Emily underwent a nuchal translucency ultrasound in the first trimester to assess the risk of chromosomal abnormalities. Which CPT code is appropriate for this procedure?",
-        "options": "A. 76801\nB. 76813\nC. 76815\nD. 76817",
-        "ground_truth": "B. 76813",
-        "explanation": "CPT code 76813 is for nuchal translucency measurement via ultrasound in the first trimester. 76801 is a general first trimester ultrasound, while 76815 and 76817 refer to limited and transvaginal scans."
-    },
-    {
-        "question": "A patient presents with severe right upper quadrant abdominal pain. The physician orders a hepatobiliary iminodiacetic acid (HIDA) scan. Which CPT code corresponds to this nuclear medicine imaging?",
-        "options": "A. 78201\nB. 78205\nC. 78206\nD. 78215",
-        "ground_truth": "C. 78206",
-        "explanation": "CPT code 78206 is for hepatobiliary imaging with pharmacologic intervention (e.g., HIDA scan with CCK). The other codes refer to different gastrointestinal or liver studies but not with pharmacologic agent."
-    }
-]'''
-
 samples_from_pdf = [
     {
         "question": "During a regular checkup, Dr. Stevens discovered a suspicious lesion on the floor of Paul's mouth and decided to perform an excision. Which CPT code covers the excision of an oral lesion?",
