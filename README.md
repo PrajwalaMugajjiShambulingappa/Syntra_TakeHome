@@ -9,4 +9,4 @@ Take-Home-RAG:
 - A RAG based system to answer medical coding questions.
 
 Note:
-- Please refer to individual READdME file to run each of the code and test/experiment it.
+- Please refer to individual README file to run each of the code and test/experiment it.
