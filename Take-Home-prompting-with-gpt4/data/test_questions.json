@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Lucas, a professional swimmer, developed a cyst in his arm due to repetitive motion. The doctor decided to excise the cyst. Which CPT code represents the excision of a cyst?",
+    "options": {
+      "A": "20005",
+      "B": "20055",
+      "C": "20010",
+      "D": "20020"
+    }
+  },
+  {
+    "question": "Riley had an overactive thyroid and was recommended for a thyroid lobectomy. Which CPT code pertains to this procedure?",
+    "options": {
+      "A": "60210",
+      "B": "60212",
+      "C": "60220",
+      "D": "60225"
+    }
+  },
+  {
+    "question": "After a series of tests, Dr. Wright determined that Katie had a kidney stone and recommended a percutaneous nephrostolithotomy. Which CPT code corresponds to this procedure?",
+    "options": {
+      "A": "50010",
+      "B": "50020",
+      "C": "50200",
+      "D": "50543"
+    }
+  },
+  {
+    "question": "Ethan, experiencing persistent flank pain, underwent a diagnostic renal angiography. Which CPT code represents this procedure?",
+    "options": {
+      "A": "50010",
+      "B": "50220",
+      "C": "50200",
+      "D": "50398"
+    }
+  },
+  {
+    "question": "What is the purpose of the National Correct Coding Initiative NCCI?",
+    "options": {
+      "A": "Ensure appropriate coding based on the medical record",
+      "B": "Prevent improper payment of procedures that should not be billed together",
+      "C": "Assign specific dollar amounts to procedures",
+      "D": "Monitor fraudulent billing practices across states"
+    }
+  }
+]

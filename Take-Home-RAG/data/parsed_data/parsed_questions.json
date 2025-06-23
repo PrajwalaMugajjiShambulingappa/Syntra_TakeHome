@@ -1,0 +1,1102 @@
+[
+  {
+    "question": "During\na\nregular\ncheckup,\nDr.\nStevens\ndiscovered\na\nsuspicious\nlesion\non\nthe\nfloor\nof\nPaul's\nmouth\nand\ndecided\nto\nperform\nan\nexcision.\nWhich\nCPT\ncode\ncovers\nthe\nexcision\nof\nan\noral\nlesion?",
+    "options": {
+      "A": "40800",
+      "B": "41105",
+      "C": "41113",
+      "D": "40804"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "While\nshaving,\nRobert\naccidentally\ncaused\na\nsmall\ncut\non\nhis\nchin\nthat\nlater\nbecame\ninfected.\nHe\nvisited\na\nhealthcare\nprovider\nwho\nincised\nand\ndrained\nthe\ninfected\narea.\nWhich\nCPT\ncode\ncovers\nthe\nincision\nand\ndrainage\nof\nan\ninfected\ncut?",
+    "options": {
+      "A": "10080",
+      "B": "10021",
+      "C": "10060",
+      "D": "10160"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Lucas,\na\nprofessional\nswimmer,\ndeveloped\na\ncyst\nin\nhis\narm\ndue\nto\nrepetitive\nmotion.\nThe\ndoctor\ndecided\nto\nexcise\nthe\ncyst.\nWhich\nCPT\ncode\nrepresents\nthe\nexcision\nof\na\ncyst?",
+    "options": {
+      "A": "20005",
+      "B": "20055",
+      "C": "20010",
+      "D": "20020"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Ella's\ndoctor\nsuspected\nshe\nmight\nhave\ndiabetes.\nHe\nordered\na\nHemoglobin\nA1c\ntest\nto\nassess\nher\naverage\nblood\nsugar\nlevels\nover\nthe\npast\nthree\nmonths.\nWhich\nCPT\ncode\nrepresents\nthe\nHemoglobin\nA1c\ntest?",
+    "options": {
+      "A": "83036",
+      "B": "83033",
+      "C": "83035",
+      "D": "83034"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Riley\nhad\nan\noveractive\nthyroid\nand\nwas\nrecommended\nfor\na\nthyroid\nlobectomy.\nWhich\nCPT\ncode\npertains\nto\nthis\nprocedure?",
+    "options": {
+      "A": "60210",
+      "B": "60212",
+      "C": "60220",
+      "D": "60225"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "After\na\nseries\nof\ntests,\nDr.\nWright\ndetermined\nthat\nKatie\nhad\na\nkidney\nstone\nand\nrecommended\na\npercutaneous\nnephrostolithotomy.\nWhich\nCPT\ncode\ncorresponds\nto\nthis\nprocedure?",
+    "options": {
+      "A": "50010",
+      "B": "50020",
+      "C": "50200",
+      "D": "50543"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Ethan,\nexperiencing\npersistent\nflank\npain,\nunderwent\na\ndiagnostic\nrenal\nangiography.\nWhich\nCPT\ncode\nrepresents\nthis\nprocedure?",
+    "options": {
+      "A": "50010",
+      "B": "50220",
+      "C": "50200",
+      "D": "50398"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "The\nRelative\nValue\nUnit\n\u0000RVU\u0000\nassociated\nwith\na\nCPT\ncode\nreflects:",
+    "options": {
+      "A": "The\ncomplexity\nof\nthe\nprocedure",
+      "B": "The\naverage\ntime\na\nprocedure\ntakes",
+      "C": "The\ncost\nassociated\nwith\nperforming\nthe\nprocedure",
+      "D": "All"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "What\ndoes\nthe\nterm\n\"bradycardia\"\nrefer\nto?",
+    "options": {
+      "A": "Fast\nheartbeat",
+      "B": "Slow\nheartbeat",
+      "C": "Irregular\nheartbeat",
+      "D": "Strong"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "After\nweeks\nof\nsinus\ncongestion,\nOlivia\nsaw\nan\nENT\nspecialist.\nThe\ndoctor\ndecided\nto\nperform\na\nnasal\nendoscopy.\nWhich\nCPT\ncode\ndescribes\nthis\nprocedure?\nM e d i c a l\nC o d i n g\nA c e",
+    "options": {
+      "A": "30000",
+      "B": "30140",
+      "C": "31231",
+      "D": "31237"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "During\nher\nyoga\nclass,\nClaire\nfelt\na\nsharp\npain\nin\nher\nthigh.\nThe\ndoctor\ndiagnosed\nher\nwith\na\nseroma\nthat\nneeded\ndrainage.\nWhich\nCPT\ncode\nshould\nbe\nused\nfor\nthe\ndrainage\nof\na\nseroma?",
+    "options": {
+      "A": "20005",
+      "B": "20055",
+      "C": "20010",
+      "D": "20016"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Jackson\nhas\nbeen\nfeeling\npain\nand\npressure\nin\nhis\nsinuses.\nThe\nENT\ndecided\nto\nperform\na\nsinusotomy\nto\nimprove\ndrainage.\nWhich\nCPT\ncode\nrepresents\nthis\nprocedure?",
+    "options": {
+      "A": "31020",
+      "B": "31256",
+      "C": "31287",
+      "D": "31288"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "During\na\nroutine\ncheck-up,\nMark\nwas\ndiagnosed\nwith\nessential\n(primary)\nhypertension.\nWhich\nICD\u000010\u0000CM\ncode\nrepresents\nthis\ncondition?",
+    "options": {
+      "A": "I10\nM e d i c a l\nC o d i n g\nA c e",
+      "B": "I11.9",
+      "C": "I12.9",
+      "D": "I13.10"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "After\ntests\nindicated\nabnormal\nparathyroid\nfunction,\nNatalie\nunderwent\na\nparathyroidectomy.\nWhich\nCPT\ncode\nrepresents\nthis\nprocedure?",
+    "options": {
+      "A": "60212",
+      "B": "60240",
+      "C": "60100",
+      "D": "60500"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "David\nuses\na\nmanual\nwheelchair\ndue\nto\nhis\nmobility\nlimitations.\nWhich\nHCPCS\nLevel\nII\ncode\npertains\nto\na\nstandard\nmanual\nwheelchair?",
+    "options": {
+      "A": "K0001",
+      "B": "K0002",
+      "C": "K0003",
+      "D": "K0004"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "After\na\nfall,\nClara's\nprimary\ncare\ndoctor\nordered\nan\nX-ray\nof\nher\nwrist.\nThe\nradiologist\ntook\nthree\nviews\nof\nher\nwrist.\nWhich\nCPT\ncode\npertains\nto\nthis\nX-ray?",
+    "options": {
+      "A": "73110",
+      "B": "73100",
+      "C": "73120\nM e d i c a l\nC o d i n g\nA c e",
+      "D": "73115"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "While\neating\npopcorn,\nMike\nfelt\na\nsharp\npain\nand\nfound\nhe\nhad\nbitten\nthe\ninside\nof\nhis\ncheek,\ncausing\na\nmucocele.\nHis\ndentist\nperformed\na\nremoval\nof\nthe\nmucocele.\nWhich\nCPT\ncode\npertains\nto\nthis\nprocedure?",
+    "options": {
+      "A": "40804",
+      "B": "40812",
+      "C": "41108",
+      "D": "40819"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "During\na\nroutine\ncheck-up,\nBrian\nwas\ndiagnosed\nwith\nbenign\nessential\nhypertension.\nWhat\nICD\u000010\u0000CM\ncode\nshould\nbe\nused\nfor\nthis\ndiagnosis?",
+    "options": {
+      "A": "I10",
+      "B": "I15.0",
+      "C": "I15.1",
+      "D": "I15.2"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Megan\nhad\nbeen\nfacing\ndifficulty\nurinating.\nHer\nurologist\nperformed\na\ncystourethroscopy\nto\ndiagnose\nthe\nissue.\nWhich\nCPT\ncode\ndescribes\nthis\nprocedure?",
+    "options": {
+      "A": "52000",
+      "B": "50250",
+      "C": "50200",
+      "D": "50395"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Ryan\nhas\nhad\nchronic\nsinusitis\nfor\nmonths.\nThe\ndoctor\nadvised\nfunctional\nendoscopic\nsinus\nsurgery\n\u0000FESS\u0000\nto\nclear\nthe\nblockages.\nWhich\nCPT\ncode\nshould\nbe\nused\nfor\nthis\nprocedure?",
+    "options": {
+      "A": "31255",
+      "B": "31256",
+      "C": "31267",
+      "D": "31276"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Which\npart\nof\nthe\nbrain\nis\nresponsible\nfor\nregulating\nvital\nfunctions\nlike\nheartbeat\nand\nbreathing?",
+    "options": {
+      "A": "Cerebellum",
+      "B": "Medulla\nOblongata",
+      "C": "Cerebrum",
+      "D": "Pons"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "After\na\ntrip\nto\na\ntropical\ncountry,\nJessica\nwas\ndiagnosed\nwith\nDengue\nfever\nwithout\nwarning\nsigns.\nWhich\nICD\u000010\u0000CM\ncode\nrepresents\nthis\ndiagnosis?",
+    "options": {
+      "A": "A90",
+      "B": "A91",
+      "C": "A92.0",
+      "D": "A92.8"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "After\na\ncar\naccident,\nLiam\nrequired\na\nretrograde\npyelography\nto\nassess\nkidney\ndamage.\nWhich\nCPT\ncode\nshould\nbe\nused\nfor\nthis\nprocedure?",
+    "options": {
+      "A": "50320",
+      "B": "50430",
+      "C": "50200",
+      "D": "50390"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Olivia\nwent\nto\nthe\npediatrician\nfor\nher\nannual\ncheckup.\nThe\ndoctor\nconducted\na\ncomprehensive\nreview\ncovering\nher\npast,\nfamily,\nand\nsocial\nhistory.\nWhich\nCPT\ncode\nrepresents\nthis\nlevel\nof\nhistory-taking?",
+    "options": {
+      "A": "99391",
+      "B": "99382",
+      "C": "99392",
+      "D": "99381"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "During\nhis\nphysical\ntherapy,\nJohn\nwas\nprovided\nwith\na\ntherapeutic\nelastic\nband.\nWhich\nHCPCS\nLevel\nII\ncode\nrepresents\nthe\nsupply\nof\nthis\nband?",
+    "options": {
+      "A": "A4450",
+      "B": "A4465",
+      "C": "A4466",
+      "D": "A4470"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Dr.\nLewis\nsuspected\na\nliver\nissue\nwith\nLily\nand\nordered\na\ncomprehensive\nmetabolic\npanel.\nWhich\nCPT\ncode\nis\nfor\na\ncomprehensive\nmetabolic\npanel?",
+    "options": {
+      "A": "80053",
+      "B": "80051",
+      "C": "80050",
+      "D": "80055"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "The\nheart\nis\nenclosed\nin\na\ndouble-layered\nsac\ncalled\nthe:",
+    "options": {
+      "A": "Pericardium",
+      "B": "Myocardium",
+      "C": "Endocardium",
+      "D": "Epicardium"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "'Osteoporosis'\ndescribes\na\ncondition\nwhere:",
+    "options": {
+      "A": "Bones\nbecome\nsoft\nand\nbendable",
+      "B": "Bone\ndensity\nis\nincreased",
+      "C": "Bones\nare\nbroken\neasily",
+      "D": "Bones"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Leo\nhad\nbeen\nexperiencing\ndifficulty\nbreathing\nand\nwent\nto\na\nclinic.\nThe\ndoctor\nperformed\na\nprocedure\nto\nremove\nnasal\npolyps.\nWhich\nCPT\ncode\ncorresponds\nto\nthis\nprocedure?",
+    "options": {
+      "A": "30110",
+      "B": "30140\nM e d i c a l\nC o d i n g\nA c e",
+      "C": "30220",
+      "D": "31237"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "For\nhis\nsevere\nback\npain,\nDr.\nSimmons\nadministers\nan\nepidural\ninjection\nto\nMike.\nWhich\nHCPCS\nLevel\nII\ncode\ncorresponds\nto\nthe\nsupply\nof\nthe\ninjection?",
+    "options": {
+      "A": "J1020",
+      "B": "J1030",
+      "C": "J1040",
+      "D": "J1050"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Experiencing\npersistent\nheadaches,\nDaniel\nwas\nsent\nfor\nan\nMRI\nof\nhis\nbrain.\nWhich\nCPT\ncode\ncovers\nan\nMRI\nof\nthe\nbrain\nwithout\ncontrast?",
+    "options": {
+      "A": "70551",
+      "B": "70553",
+      "C": "70549",
+      "D": "70550"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Dr.\nJohnson\nsaw\nSarah\nin\nthe\nER\nafter\nshe\nexperienced\na\nsevere\nasthma\nattack.\nAfter\nstabilization,\nhe\nconducted\na\ncomprehensive\nreview\nof\nher\nsystems\nand\nmedical\nhistory.\nWhich\nCPT\ncode\nrepresents\nthis\nlevel\nof\nhistory-taking?",
+    "options": {
+      "A": "99221",
+      "B": "99218",
+      "C": "99223\nM e d i c a l\nC o d i n g\nA c e",
+      "D": "99220"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Ella\nwent\nto\nthe\ndoctor\nafter\nexperiencing\npain\nfrom\na\nswollen\nsalivary\ngland.\nThe\ndoctor\nperformed\na\nsialolithotomy.\nWhich\nCPT\ncode\nrepresents\nthis\nprocedure?",
+    "options": {
+      "A": "40810",
+      "B": "40812",
+      "C": "40819",
+      "D": "40820"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "During\na\nfollow-up\nvisit,\nDr.\nAllen\nasked\nEmily\nabout\nthe\nprogress\nof\nher\nsymptoms,\nher\ncurrent\nmedications,\nand\nperformed\na\nlimited\nexamination.\nWhich\nCPT\ncode\nrepresents\nthis\nlevel\nof\nservice?",
+    "options": {
+      "A": "99212",
+      "B": "99214",
+      "C": "99213",
+      "D": "99215"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "In\nmedical\nterminology,\nthe\nprefix\n'osteo-'\nrelates\nto\nwhich\nof\nthe\nfollowing?",
+    "options": {
+      "A": "Bone",
+      "B": "Heart",
+      "C": "Liver",
+      "D": "Brain"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Lucas\nwent\nto\nthe\nhospital\nafter\nnoticing\nblood\nin\nhis\nurine.\nThe\ndoctor\nperformed\na\nrenal\nbiopsy.\nWhich\nCPT\ncode\nrepresents\nthis\nprocedure?",
+    "options": {
+      "A": "50200",
+      "B": "50220",
+      "C": "50225",
+      "D": "50230"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Ryan\nhad\nbeen\nexperiencing\nchronic\nchest\npain.\nDuring\na\ndiagnostic\nprocedure,\nthe\nanesthesiologist\nadministered\nanesthesia\nto\nkeep\nhim\ncomfortable.\nWhich\nCPT\ncode\nrepresents\nanesthesia\nfor\nintrathoracic\nprocedures?",
+    "options": {
+      "A": "00520",
+      "B": "00522",
+      "C": "00524",
+      "D": "00526"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "While\nhiking,\nAlex\nslipped\non\na\nrock\nand\nhurt\nhis\nankle.\nAt\nthe\nhospital,\nthey\ndiscovered\na\nhematoma\nthat\nneeded\nto\nbe\nincised\nand\ndrained.\nWhich\nCPT\ncode\nrepresents\nthis\nprocedure?",
+    "options": {
+      "A": "20005",
+      "B": "20055",
+      "C": "20000",
+      "D": "20025"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Bianca\nvisited\nan\noral\nsurgeon\ndue\nto\na\ncyst\nunder\nher\ntongue.\nThe\nsurgeon\ndecided\nto\nperform\na\nmarsupialization\nof\nthe\nranula.\nWhich\nCPT\ncode\nis\nappropriate\nfor\nthis\nprocedure?",
+    "options": {
+      "A": "40800",
+      "B": "41115",
+      "C": "40801",
+      "D": "40806"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Sarah\nuses\na\ncontinuous\npositive\nairway\npressure\n\u0000CPAP\u0000\ndevice\nfor\nher\nsleep\napnea.\nWhich\nHCPCS\nLevel\nII\ncode\npertains\nto\nthe\nCPAP\ndevice?",
+    "options": {
+      "A": "E0601",
+      "B": "E0621",
+      "C": "E0631",
+      "D": "E0650"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "During\na\nhernia\nrepair,\nDr.\nStevens\nadministered\nanesthesia\nto\nensure\nMichael\nwas\ncomfortable\nand\npain-free.\nWhich\nCPT\ncode\nrepresents\nanesthesia\nfor\nan\ninguinal\nhernia\nrepair?",
+    "options": {
+      "A": "00102",
+      "B": "00144",
+      "C": "00145",
+      "D": "00148"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Sophie,\npregnant\nwith\nher\nfirst\nchild,\nwent\nfor\nan\nultrasound\nin\nher\nsecond\ntrimester.\nWhich\nCPT\ncode\nis\nappropriate\nfor\na\nroutine\nobstetric\nultrasound\nof\na\nfetus?",
+    "options": {
+      "A": "76805",
+      "B": "76810",
+      "C": "76815",
+      "D": "76816"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Sophie,\nafter\na\nminor\ncar\naccident,\nhad\na\nnosebleed\nthat\nwouldn't\nstop.\nThe\nER\ndoctor\nperformed\na\nnasal\nendoscopy\nto\ncontrol\nthe\nposterior\nnosebleed.\nWhich\nCPT\ncode\nis\nappropriate\nfor\nthis\nprocedure?",
+    "options": {
+      "A": "30000",
+      "B": "31255",
+      "C": "31231",
+      "D": "30903"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Ryan\nhad\nbeen\nexperiencing\nchronic\nchest\npain.\nHis\ncardiologist\nordered\na\nchest\nCT\nscan\nwith\ncontrast.\nWhich\nCPT\ncode\nrepresents\na\nCT\nof\nthe\nchest\nwith\ncontrast?",
+    "options": {
+      "A": "71250",
+      "B": "71260",
+      "C": "71270",
+      "D": "71275"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Nina,\nwho\nhad\nbeen\ndealing\nwith\ndepression,\nvisited\na\npsychiatrist\nwho\nprescribed\nher\na\n30-minute\npsychotherapy\nsession.\nWhich\nCPT\ncode\nis\nappropriate\nfor\nindividual\npsychotherapy\nfor\n30\nminutes?",
+    "options": {
+      "A": "90832",
+      "B": "90834",
+      "C": "90837",
+      "D": "90839"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Tom\nwas\ndiagnosed\nwith\nbilateral\nprimary\nosteoarthritis\nof\nthe\nknee.\nWhich\nICD\u000010\u0000CM\ncode\nis\nsuitable\nfor\nthis\ndiagnosis?",
+    "options": {
+      "A": "M17.0",
+      "B": "M17.1",
+      "C": "M17.2",
+      "D": "M17.3"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Samantha\nwas\ndiagnosed\nwith\nacute\nsinusitis\ndue\nto\nStreptococcus\npneumoniae.\nWhat\nICD\u000010\u0000CM\ncode\ncorresponds\nto\nher\ncondition?",
+    "options": {
+      "A": "J01.00",
+      "B": "J01.10",
+      "C": "J01.01",
+      "D": "J01.11"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Dr.\nParker\nrecommended\na\ncolonoscopy\nfor\nMaria\ndue\nto\nher\nfamily\nhistory\nof\ncolorectal\ncancer.\nWhich\nCPT\ncode\nrepresents\na\ndiagnostic\ncolonoscopy?",
+    "options": {
+      "A": "45378",
+      "B": "45379",
+      "C": "45380",
+      "D": "45381"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Lena,\na\n28-year-old,\nwas\ndiagnosed\nwith\na\nmild\nform\nof\nendometriosis.\nWhich\nICD\u000010\u0000CM\ncode\ncorresponds\nto\nher\ndiagnosis?",
+    "options": {
+      "A": "N80.0",
+      "B": "N80.1",
+      "C": "N80.2",
+      "D": "N80.3"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Leo\nvisited\na\ncardiologist\ndue\nto\nchest\npain.\nThe\ndoctor\ntook\nan\nextended\nhistory,\nreviewed\nmultiple\nsystems,\nand\nperformed\na\ndetailed\nexamination.\nWhich\nCPT\ncode\nrepresents\nthis\nlevel\nof\nservice?",
+    "options": {
+      "A": "99221",
+      "B": "99222",
+      "C": "99223",
+      "D": "99220"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Robert\nvisited\nan\nophthalmologist\nafter\nexperiencing\nblurry\nvision.\nAfter\nexamination,\nthe\ndoctor\ndiagnosed\nhim\nwith\ncataracts.\nWhich\nCPT\ncode\ncorresponds\nto\na\ncataract\nremoval\nwith\nintraocular\nlens\ninsertion?",
+    "options": {
+      "A": "66982",
+      "B": "66984",
+      "C": "66983",
+      "D": "66985"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "The\nlargest\nbone\nin\nthe\nhuman\nbody\nis\nthe:",
+    "options": {
+      "A": "Humerus",
+      "B": "Femur",
+      "C": "Tibia",
+      "D": "Fibula"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Which\norgan\nis\nresponsible\nfor\nproducing\ninsulin?",
+    "options": {
+      "A": "Pancreas",
+      "B": "Liver",
+      "C": "Kidney",
+      "D": "Spleen"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "With\nsymptoms\nof\nanemia,\nRiley's\ndoctor\nordered\na\ncomplete\nblood\ncount\nwith\ndifferential.\nWhich\nCPT\ncode\npertains\nto\nthis\ntest?",
+    "options": {
+      "A": "85027\nM e d i c a l\nC o d i n g\nA c e",
+      "B": "85025",
+      "C": "85029",
+      "D": "85023"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Sophie,\npregnant\nwith\nher\nfirst\nchild,\nwent\nfor\nan\nultrasound\nin\nher\nsecond\ntrimester.\nThe\nanesthesiologist\nadministered\nanesthesia\nto\nkeep\nher\ncomfortable\nduring\nthe\nprocedure.\nWhich\nCPT\ncode\nrepresents\nanesthesia\nfor\na\nroutine\nobstetric\nultrasound?",
+    "options": {
+      "A": "00860",
+      "B": "00864",
+      "C": "00862",
+      "D": "00868"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Which\nU.S.\nfederal\nregulation\nprotects\nthe\nprivacy\nand\nsecurity\nof\npatients'\nmedical\ninformation?",
+    "options": {
+      "A": "Affordable\nCare\nAct\n\u0000ACA\u0000",
+      "B": "Clinical\nLaboratory\nImprovement\nAmendments\n\u0000CLIA\u0000",
+      "C": "Health\nInformation\nTechnology\nfor\nEconomic\nand\nClinical\nHealth\n\u0000HITECH\u0000\nAct",
+      "D": "Health"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "After\nher\nmorning\nrun,\nMaria\nnoticed\na\npainful\nabscess\non\nher\nthigh.\nShe\nimmediately\nwent\nto\nthe\nclinic,\nwhere\nthe\ndoctor\nperformed\nan\nincision\nand\ndrainage.\nWhich\nCPT\ncode\nrepresents\nthe\nincision\nand\ndrainage\nof\nan\nabscess?\nM e d i c a l\nC o d i n g\nA c e",
+    "options": {
+      "A": "10080",
+      "B": "10021",
+      "C": "10060",
+      "D": "10160"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "James\nhad\ndifficulty\nbreathing\nand\nunderwent\na\npulmonary\nfunction\ntest\nto\nassess\nhis\nlung\nfunction.\nWhich\nCPT\ncode\nrepresents\na\nsimple\npulmonary\nfunction\ntest?",
+    "options": {
+      "A": "94010",
+      "B": "94060",
+      "C": "94070",
+      "D": "94015"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "After\na\nminor\ncar\naccident,\nEmma\nwas\ntaken\nto\nthe\nemergency\nroom.\nThey\nfound\na\nhematoma\nin\nher\nshoulder\nthat\nneeded\nincision\nand\ndrainage.\nWhich\nCPT\ncode\npertains\nto\nthis\nprocedure?",
+    "options": {
+      "A": "20005",
+      "B": "20010",
+      "C": "20016",
+      "D": "20100"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "For\noutpatient\ncoding,\nwhen\ncoding\nfor\na\ncondition\nthat\nis\nboth\nacute\nand\nchronic\nand\nseparate\nsubentries\nexist\nin\nthe\nalphabetic\nindex,\nwhich\ncode\nshould\nbe\nsequenced\nfirst?",
+    "options": {
+      "A": "Acute\nM e d i c a l\nC o d i n g\nA c e",
+      "B": "Chronic",
+      "C": "Either\n-\nbased\non\nthe\nseverity",
+      "D": "The"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Alex\nwas\ndiagnosed\nwith\ntype\n1\ndiabetes\nmellitus\nwithout\ncomplications.\nWhich\nICD\u000010\u0000CM\ncode\nrepresents\nthis\ndiagnosis?",
+    "options": {
+      "A": "E10.9",
+      "B": "E11.9",
+      "C": "E13.9",
+      "D": "E08.9"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "John,\nan\navid\ngardener,\ndiscovered\na\nwart\non\nhis\nfinger.\nConcerned\nabout\nits\nappearance,\nhe\nconsulted\na\nphysician\nwho\nrecommended\nits\nremoval.\nWhich\nCPT\ncode\ncovers\nthe\nexcision\nof\na\nwart?",
+    "options": {
+      "A": "10021",
+      "B": "10040",
+      "C": "10060",
+      "D": "10120"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "According\nto\nCPT\nguidelines,\nif\na\ncode\nexists\nthat\ndescribes\na\ncertain\nservice\nor\nprocedure,\nyou\nshould:",
+    "options": {
+      "A": "Use\na\nsimilar\ncode\nthat\nmight\nfit",
+      "B": "Use\nthe\nexact\ncode\ndescribing\nthe\nservice",
+      "C": "Use\nan\nunspecified\ncode\nM e d i c a l\nC o d i n g\nA c e",
+      "D": "Use"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Dr.\nLewis\nfound\na\nnodule\nin\nChloe's\nthyroid\nand\ndecided\nto\nperform\na\ncore\nneedle\nbiopsy.\nWhich\nCPT\ncode\ncovers\nthis\nprocedure?",
+    "options": {
+      "A": "60100",
+      "B": "60240",
+      "C": "60271",
+      "D": "60101"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Grace\nrequired\na\nknee\nreplacement.\nThe\nanesthesiologist\nadministered\nanesthesia\nspecific\nto\nthe\nlower\nleg\nprocedure.\nWhich\nCPT\ncode\nis\nsuitable\nfor\nanesthesia\nduring\na\nknee\nreplacement?",
+    "options": {
+      "A": "01402",
+      "B": "01400",
+      "C": "01404",
+      "D": "01406"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "During\na\nroutine\ncheckup,\na\nphysician\nnoticed\na\nsuspicious\nlesion\non\nPeter's\nback.\nTo\nensure\nit\nwas\nbenign,\nthe\ndoctor\nperformed\na\npunch\nbiopsy.\nWhich\nCPT\ncode\nis\nappropriate\nfor\na\npunch\nbiopsy\nof\nthe\nskin?",
+    "options": {
+      "A": "10040",
+      "B": "10005",
+      "C": "11104\nM e d i c a l\nC o d i n g\nA c e",
+      "D": "11100"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Elena\nvisited\nthe\nER\nwith\na\nsevere\nmigraine\nwithout\naura,\nnot\nintractable.\nWhat\nICD\u000010\u0000CM\ncode\ncorresponds\nto\nher\ncondition?",
+    "options": {
+      "A": "G43.009",
+      "B": "G43.109",
+      "C": "G43.209",
+      "D": "G43.309\""
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Michael\nhad\nalways\nhad\na\nlarge\nmole\non\nhis\narm.\nHowever,\nrecently\nhe\nobserved\nchanges\nin\nits\nappearance.\nOn\nthe\nadvice\nof\nhis\nfriend,\nhe\nvisited\na\ndermatologist\nwho\nbiopsied\nthe\nmole.\nWhich\nCPT\ncode\npertains\nto\nthe\nbiopsy\nof\na\nlesion?",
+    "options": {
+      "A": "10040",
+      "B": "10005",
+      "C": "10060",
+      "D": "11100"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "What\nis\nthe\npurpose\nof\nthe\nNational\nCorrect\nCoding\nInitiative\n\u0000NCCI\u0000?",
+    "options": {
+      "A": "Ensure\nappropriate\ncoding\nbased\non\nthe\nmedical\nrecord",
+      "B": "Prevent\nimproper\npayment\nof\nprocedures\nthat\nshould\nnot\nbe\nbilled\ntogether",
+      "C": "Assign\nspecific\ndollar\namounts\nto\nprocedures",
+      "D": "Monitor"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Peter\nvisited\na\ndermatologist\nfor\na\npersistent\nrash.\nThe\ndoctor\ndiagnosed\nhim\nwith\natopic\ndermatitis\nof\nthe\nhands.\nWhat\nICD\u000010\u0000CM\ncode\nrepresents\nthis\ndiagnosis?",
+    "options": {
+      "A": "L20.81",
+      "B": "L20.82",
+      "C": "L20.83",
+      "D": "L20.84"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Sophia\nwent\nto\na\ndermatologist\nfor\na\nfacial\nconsultation.\nThe\ndoctor\nnoticed\na\nmilia\nnear\nher\neye\nand\nremoved\nit.\nWhich\nCPT\ncode\nrepresents\nthe\nremoval\nof\nmilia?",
+    "options": {
+      "A": "10021",
+      "B": "10030",
+      "C": "10040",
+      "D": "10120"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Owen\nwas\ndiagnosed\nwith\nthyroid\ncancer.\nHis\noncologist\nrecommended\na\ntotal\nthyroidectomy.\nWhich\nCPT\ncode\nshould\nbe\nused\nfor\nthis\nprocedure?",
+    "options": {
+      "A": "60212",
+      "B": "60240",
+      "C": "60100",
+      "D": "60252"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "According\nto\nthe\nICD\u000010\u0000CM\nguidelines,\nwhen\na\npatient\nhas\nboth\nan\nacute\nand\nchronic\ncondition,\nwhich\none\nshould\nbe\nsequenced\nfirst?",
+    "options": {
+      "A": "Acute\ncondition",
+      "B": "Chronic\ncondition",
+      "C": "Either\n-\nbased\non\nthe\nseverity",
+      "D": "The"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "The\nterm\n\"hepatomegaly\"\nrefers\nto:",
+    "options": {
+      "A": "Inflammation\nof\nthe\nliver",
+      "B": "Enlargement\nof\nthe\nliver",
+      "C": "Disease\nof\nthe\nliver",
+      "D": "Absence"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Jake\ncame\nto\nthe\nclinic\nfor\na\nroutine\ncheckup.\nThe\ndoctor\nasked\nhim\nbasic\nquestions\nabout\nhis\ncurrent\nhealth\nwithout\ngoing\ninto\na\ndetailed\nhistory\nor\nreview\nof\nsystems.\nWhat\nCPT\ncode\nrepresents\nthis\nlevel\nof\nhistory-taking?",
+    "options": {
+      "A": "99201",
+      "B": "99212",
+      "C": "99203",
+      "D": "99204"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "During\nher\nbeach\nvacation,\nLisa\nnoticed\na\nskin\ntag\non\nher\nneck.\nWanting\nto\nwear\nher\nnew\nnecklace\nwithout\nany\nobstructions,\nshe\ndecided\nto\nvisit\na\ndermatologist\nto\nhave\nit\nM e d i c a l\nC o d i n g\nA c e\nremoved.\nWhich\nCPT\ncode\nrepresents\nthe\nremoval\nof\na\nskin\ntag?",
+    "options": {
+      "A": "10021",
+      "B": "10030",
+      "C": "10060",
+      "D": "11200"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Ava\nwas\nhaving\npersistent\nnosebleeds.\nThe\nENT\ndecided\nto\ncauterize\nthe\nbleeding\nvessel\nin\nher\nnasal\ncavity.\nWhich\nCPT\ncode\ndescribes\nthis\nprocedure?",
+    "options": {
+      "A": "30000",
+      "B": "30901",
+      "C": "31231",
+      "D": "31237"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "During\na\ndental\ncleaning,\nDr.\nAdams\nnoticed\na\nwhite\npatch\ninside\nHannah's\nmouth.\nShe\nsuggested\na\nbiopsy\nof\nthe\noral\nmucosa.\nWhich\nCPT\ncode\ncovers\na\nbiopsy\nof\nthe\noral\nmucosa?",
+    "options": {
+      "A": "40000",
+      "B": "41105",
+      "C": "40100",
+      "D": "40804"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "After\nexperiencing\nrapid\nheartbeats,\nKaren\nunderwent\nan\nelectrophysiology\nstudy.\nWhich\nCPT\ncode\npertains\nto\nthis\nprocedure?",
+    "options": {
+      "A": "93619",
+      "B": "93620",
+      "C": "93621",
+      "D": "93622"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "While\ngardening,\nChloe\ngot\na\nthorn\nembedded\nin\nher\nhand.\nShe\nwent\nto\na\nhealthcare\nprovider\nwho\nremoved\nthe\nforeign\nbody.\nWhich\nCPT\ncode\ncovers\nthe\nremoval\nof\na\nforeign\nbody\nfrom\nsoft\ntissue?",
+    "options": {
+      "A": "20005",
+      "B": "20055",
+      "C": "20010",
+      "D": "10120"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "During\na\nfootball\nmatch,\nEthan\nhad\na\ncollision\nand\ndeveloped\na\nhematoma\nin\nhis\nupper\narm.\nThe\ndoctor\nperformed\nan\nincision\nto\ndrain\nit.\nWhich\nCPT\ncode\nis\nappropriate\nfor\nthis\nprocedure?",
+    "options": {
+      "A": "20005",
+      "B": "20002",
+      "C": "20010",
+      "D": "20100"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "The\nterm\n\"hyperglycemia\"\nmeans:",
+    "options": {
+      "A": "Low\nblood\nsugar\nlevel",
+      "B": "Normal\nblood\nsugar\nlevel",
+      "C": "High\nblood\nsugar\nlevel",
+      "D": "Blood"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Julie\nwas\ndiagnosed\nwith\niron-deficiency\nanemia\nsecondary\nto\nchronic\nblood\nloss.\nWhich\nICD\u000010\u0000CM\ncode\nis\nappropriate\nfor\nthis\ndiagnosis?",
+    "options": {
+      "A": "D50.0",
+      "B": "D50.1",
+      "C": "D50.8",
+      "D": "D50.9"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Nathan\nvisited\nthe\nclinic\nwith\nflu-like\nsymptoms.\nThe\ndoctor\ntook\na\nbrief\nhistory,\nfocusing\nmainly\non\nthe\nrespiratory\nsystem.\nWhich\nCPT\ncode\nrepresents\nthis\nlevel\nof\nhistory-taking?",
+    "options": {
+      "A": "99201",
+      "B": "99202",
+      "C": "99203",
+      "D": "99204"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Dr.\nHarris\ndiagnosed\nGrace\nwith\nhyperthyroidism\nand\nrecommended\na\npartial\nthyroidectomy.\nWhich\nCPT\ncode\ndescribes\nthis\nprocedure?\nM e d i c a l\nC o d i n g\nA c e",
+    "options": {
+      "A": "60210",
+      "B": "60212",
+      "C": "60100",
+      "D": "60225"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "According\nto\nMedicare,\nthe\n\"Three-Day\nPayment\nWindow\nRule\"\nrefers\nto:",
+    "options": {
+      "A": "The\ntime\nframe\nin\nwhich\na\npatient\nmust\npay\ntheir\nbill",
+      "B": "Services\nprovided\nto\na\npatient\n3\ndays\nprior\nto\ntheir\ninpatient\nadmission",
+      "C": "The\ntime\nframe\nin\nwhich\nMedicare\nmust\nprocess\na\nclaim",
+      "D": "The"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "In\nICD\u000010\u0000CM,\nhow\nshould\nunspecified\ncodes\nbe\nutilized?",
+    "options": {
+      "A": "Frequently;\nas\nthey\nare\neasy\nto\nuse",
+      "B": "Only\nwhen\nthe\ndocumentation\ndoesn't\nprovide\nmore\nspecific\ninformation",
+      "C": "When\nthe\ncoder\nis\nunsure\nabout\nthe\nspecifics\nof\nthe\ncondition",
+      "D": "In"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Sophia\nhad\nrecurrent\nUTIs.\nTo\ndetermine\nthe\ncause,\nher\nphysician\nperformed\na\ncystography.\nWhich\nCPT\ncode\npertains\nto\nthis\nprocedure?",
+    "options": {
+      "A": "50395\nM e d i c a l\nC o d i n g\nA c e",
+      "B": "50250",
+      "C": "50200",
+      "D": "51600"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "In\nCPT\ncoding,\nwhat\ndoes\na\nmodifier\n\u000025\nindicate?",
+    "options": {
+      "A": "Repeat\nprocedure\nby\nthe\nsame\nphysician",
+      "B": "Bilateral\nprocedure",
+      "C": "Multiple\nprocedures",
+      "D": "Significant"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "What\ndoes\nthe\nterm\n\"cardiomyopathy\"\nrefer\nto?",
+    "options": {
+      "A": "Inflammation\nof\nthe\nheart\nmuscle",
+      "B": "Enlargement\nof\nthe\nheart",
+      "C": "Disease\nof\nthe\nheart\nmuscle",
+      "D": "Blockage"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "James\nnoticed\na\nlump\nin\nhis\narmpit\nand\nvisited\na\nphysician\nwho\ndiagnosed\nit\nas\nan\nabscess.\nThe\ndoctor\nperformed\nan\nincision\nand\ndrainage.\nWhich\nCPT\ncode\ncorresponds\nto\nthis\nprocedure?",
+    "options": {
+      "A": "20002",
+      "B": "20060",
+      "C": "20000",
+      "D": "20005"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "George\nreceived\nan\ninfusion\nof\nRemicade\nfor\nhis\nCrohn's\ndisease.\nWhat\nHCPCS\nLevel\nII\ncode\ncorresponds\nto\nthe\nRemicade\ninfusion?",
+    "options": {
+      "A": "J1745",
+      "B": "J1750",
+      "C": "J1756",
+      "D": "J1760"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "When\nit\ncomes\nto\nMedicare\nfraud\nand\nabuse,\nwhat\ndoes\n\"upcoding\"\nrefer\nto?",
+    "options": {
+      "A": "Billing\nfor\nservices\nnot\nrendered",
+      "B": "Billing\na\nhigher\nservice\ncode\nthan\nwhat\nwas\nperformed",
+      "C": "Billing\nfor\nunnecessary\nservices",
+      "D": "Assigning"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Max\ncomplained\nof\nfatigue\nand\nfrequent\ninfections.\nHis\ndoctor\nordered\nan\nimmunoglobulin\ntest\nto\ncheck\nhis\nimmune\nsystem's\nhealth.\nWhich\nCPT\ncode\ncorresponds\nto\nthe\nimmunoglobulin\ntest?",
+    "options": {
+      "A": "82784",
+      "B": "82782",
+      "C": "82785",
+      "D": "82783"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "When\na\npatient\nis\nadmitted\nto\nthe\nhospital\nfor\na\nhigh\nfever\nand\nis\nlater\ndiagnosed\nwith\nsepsis,\nwhat\nshould\nbe\nthe\nprimary\ndiagnosis\naccording\nto\nICD\u000010\u0000CM\nguidelines?",
+    "options": {
+      "A": "Fever",
+      "B": "Sepsis",
+      "C": "Both\ncan\nbe\nprimary",
+      "D": "The"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Jason\nwent\nto\nthe\nclinic\nafter\nnoticing\na\nsore\nthat\nwouldn't\nheal\ninside\nhis\nmouth.\nThe\ndoctor\nperformed\nan\nexcision\nof\nthe\noral\nlesion.\nWhich\nCPT\ncode\nrepresents\nthis\nprocedure?",
+    "options": {
+      "A": "41108",
+      "B": "41110",
+      "C": "40100",
+      "D": "40819"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Nancy\nwas\nfitted\nwith\na\nbelow-the-knee\nartificial\nlimb\nafter\nher\nleg\namputation.\nWhich\nHCPCS\nLevel\nII\ncode\nrepresents\nthis\nprosthetic?",
+    "options": {
+      "A": "L5631",
+      "B": "L5637",
+      "C": "L5645",
+      "D": "L5650"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Tyler\nhad\na\nlump\non\nhis\nthyroid.\nThe\nendocrinologist\nperformed\na\nfine\nneedle\naspiration\nbiopsy.\nWhich\nCPT\ncode\npertains\nto\nthis\nprocedure?",
+    "options": {
+      "A": "60100",
+      "B": "60240",
+      "C": "60220",
+      "D": "60212"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Lily\nfelt\na\nsudden\nblockage\nin\nher\nnose.\nThe\ndoctor\ndiagnosed\na\ndeviated\nseptum\nand\nrecommended\na\nseptoplasty.\nWhich\nCPT\ncode\npertains\nto\nthis\nprocedure?",
+    "options": {
+      "A": "31231",
+      "B": "31000",
+      "C": "31254",
+      "D": "30520"
+    },
+    "answer": null,
+    "explanation": null
+  },
+  {
+    "question": "Anna\nreceived\nan\ninjection\nof\nBotox\nfor\nher\nchronic\nmigraines.\nWhich\nHCPCS\nLevel\nII\ncode\nrepresents\nthe\nBotox\ninjection?",
+    "options": {
+      "A": "J0585",
+      "B": "J0586",
+      "C": "J0587",
+      "D": "J0588"
+    },
+    "answer": null,
+    "explanation": "s\nfor\nevery\nquestion\nare\nin\nthe\nsection\nafter\nthis,\nlabeled\n“Explanations”.\nPassing\nscore:\n70\ncorrect\nout\nof\n100\nquestions\ntotal.\n[\n]"
+  }
+]

@@ -1,0 +1,222 @@
+[
+    {
+      "question": "During a regular checkup, Dr. Stevens discovered a suspicious lesion on the floor of Paul's mouth and decided to perform an excision. Which CPT code covers the excision of an oral lesion?",
+      "options": {
+        "A": "40800",
+        "B": "41105",
+        "C": "41113",
+        "D": "40804"
+      },
+      "answer": "C",
+      "explanation": "41113 pertains to excision of lesion of floor of mouth."
+    },
+    {
+      "question": "While shaving, Robert accidentally caused a small cut on his chin that later became infected. He visited a healthcare provider who incised and drained the infected area. Which CPT code covers the incision and drainage of an infected cut?",
+      "options": {
+        "A": "10080",
+        "B": "10021",
+        "C": "10060",
+        "D": "10160"
+      },
+      "answer": "C",
+      "explanation": "10060 is the CPT code for incision and drainage of abscess (e.g., carbuncle, suppurative hidradenitis, cutaneous or subcutaneous abscess, cyst, furuncle, or paronychia); simple or single."
+    },
+    {
+      "question": "Ella's doctor suspected she might have diabetes. He ordered a Hemoglobin A1c test to assess her average blood sugar levels over the past three months. Which CPT code represents the Hemoglobin A1c test?",
+      "options": {
+        "A": "83036",
+        "B": "83033",
+        "C": "83035",
+        "D": "83034"
+      },
+      "answer": "A",
+      "explanation": "Code 83036 is for the Hemoglobin A1c test. The other codes are not specific to the Hemoglobin A1c test and represent different laboratory tests."
+    },
+    {
+      "question": "During a routine check-up, Mark was diagnosed with essential (primary) hypertension. Which ICD-10-CM code represents this condition?",
+      "options": {
+        "A": "I10",
+        "B": "I11.9",
+        "C": "I12.9",
+        "D": "I13.10"
+      },
+      "answer": "A",
+      "explanation": "I10 is the ICD-10-CM code for essential (primary) hypertension. I11.9 represents hypertensive heart disease without heart failure, I12.9 is for hypertensive renal disease without renal failure, and I13.10 stands for hypertensive heart and chronic kidney disease without heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease."
+    },
+    {
+      "question": "What does the term 'bradycardia' refer to?",
+      "options": {
+        "A": "Fast heartbeat",
+        "B": "Slow heartbeat",
+        "C": "Irregular heartbeat",
+        "D": "Strong heartbeat"
+      },
+      "answer": "B",
+      "explanation": "The term 'bradycardia' refers to a slower than normal heart rate, or slow heartbeat. It doesn't refer to a fast heartbeat (that's tachycardia), nor does it indicate the strength or regularity of the heartbeats."
+    },
+    {
+      "question": "David uses a manual wheelchair due to his mobility limitations. Which HCPCS Level II code pertains to a standard manual wheelchair?",
+      "options": {
+        "A": "K0001",
+        "B": "K0002",
+        "C": "K0003",
+        "D": "K0004"
+      },
+      "answer": "A",
+      "explanation": "The HCPCS Level II code K0001 represents a standard manual wheelchair. This code is specific for a wheelchair that is manually operated."
+    },
+    {
+      "question": "After a trip to a tropical country, Jessica was diagnosed with Dengue fever without warning signs. Which ICD-10-CM code represents this diagnosis?",
+      "options": {
+        "A": "A90",
+        "B": "A91",
+        "C": "A92.0",
+        "D": "A92.8"
+      },
+      "answer": "A",
+      "explanation": "A90 is the ICD-10-CM code for Dengue fever [classical dengue]. A91 pertains to Dengue hemorrhagic fever, A92.0 represents West Nile virus infection with neurologic manifestation, and A92.8 stands for other specified mosquito-borne viral fevers."
+    },
+    {
+      "question": "Which part of the brain is responsible for regulating vital functions like heartbeat and breathing?",
+      "options": {
+        "A": "Cerebellum",
+        "B": "Medulla Oblongata",
+        "C": "Cerebrum",
+        "D": "Pons"
+      },
+      "answer": "B",
+      "explanation": "The medulla oblongata, located in the brainstem, is responsible for regulating vital functions such as heartbeat, breathing, and blood pressure. The cerebellum coordinates muscle movements and maintains posture and balance. The cerebrum is involved in sensory perception, thought, and voluntary muscle movements. The pons plays a role in regulating breathing and relaying signals between different parts of the brain."
+    },
+    {
+      "question": "The heart is enclosed in a double-layered sac called the:",
+      "options": {
+        "A": "Pericardium",
+        "B": "Myocardium",
+        "C": "Endocardium",
+        "D": "Epicardium"
+      },
+      "answer": "A",
+      "explanation": "The heart is enclosed by the pericardium, a double-layered sac. The myocardium refers to the muscular wall of the heart. The endocardium is the inner lining of the heart chambers, while the epicardium is the outermost layer of the heart wall."
+    },
+    {
+      "question": "In medical terminology, the prefix 'osteo-' relates to which of the following?",
+      "options": {
+        "A": "Bone",
+        "B": "Heart",
+        "C": "Liver",
+        "D": "Brain"
+      },
+      "answer": "A",
+      "explanation": "The prefix 'osteo-' in medical terminology refers to bone. For instance, 'osteoporosis' refers to a condition where bones become brittle due to loss of tissue. It doesn't relate to the heart, liver, or brain."
+    },
+    {
+      "question": "Tom was diagnosed with bilateral primary osteoarthritis of the knee. Which ICD-10-CM code is suitable for this diagnosis?",
+      "options": {
+        "A": "M17.0",
+        "B": "M17.1",
+        "C": "M17.2",
+        "D": "M17.3"
+      },
+      "answer": "B",
+      "explanation": "M17.1 is the ICD-10-CM code for bilateral primary osteoarthritis of the knee. M17.0 represents unilateral primary osteoarthritis, M17.2 is for unilateral post-traumatic osteoarthritis, and M17.3 is for bilateral post-traumatic osteoarthritis of the knee."
+    },
+    {
+      "question": "The largest bone in the human body is the:",
+      "options": {
+        "A": "Humerus",
+        "B": "Femur",
+        "C": "Tibia",
+        "D": "Fibula"
+      },
+      "answer": "B",
+      "explanation": "The femur, or thigh bone, is the longest and strongest bone in the human body. The humerus is the bone of the upper arm, while the tibia and fibula are bones of the lower leg, with the tibia being the thicker of the two."
+    },
+    {
+      "question": "Which organ is responsible for producing insulin?",
+      "options": {
+        "A": "Pancreas",
+        "B": "Liver",
+        "C": "Kidney",
+        "D": "Spleen"
+      },
+      "answer": "A",
+      "explanation": "The pancreas is responsible for producing insulin, a hormone that regulates the amount of glucose in the blood. The liver, kidney, and spleen have other distinct functions and do not produce insulin."
+    },
+    {
+      "question": "Alex was diagnosed with type 1 diabetes mellitus without complications. Which ICD-10-CM code represents this diagnosis?",
+      "options": {
+        "A": "E10.9",
+        "B": "E11.9",
+        "C": "E13.9",
+        "D": "E08.9"
+      },
+      "answer": "A",
+      "explanation": "E10.9 is the ICD-10-CM code for type 1 diabetes mellitus without complications. E11.9 pertains to type 2 diabetes mellitus, E13.9 to other specified diabetes mellitus, and E08.9 to diabetes mellitus due to an underlying condition, all without complications."
+    },
+    {
+      "question": "According to CPT guidelines, if a code exists that describes a certain service or procedure, you should:",
+      "options": {
+        "A": "Use a similar code that might fit",
+        "B": "Use the exact code describing the service",
+        "C": "Use an unspecified code",
+        "D": "Use any code as long as it's from the correct section"
+      },
+      "answer": "B",
+      "explanation": "CPT guidelines emphasize the importance of coding accuracy. If there's a code that exactly describes the service or procedure performed, that specific code should be used. Using a similar or unspecified code when a more accurate code is available can lead to billing errors and misrepresentations of the services provided."
+    },
+    {
+      "question": "Which U.S. federal regulation protects the privacy and security of patients' medical information?",
+      "options": {
+        "A": "Affordable Care Act (ACA)",
+        "B": "Clinical Laboratory Improvement Amendments (CLIA)",
+        "C": "Health Information Technology for Economic and Clinical Health (HITECH) Act",
+        "D": "Health Insurance Portability and Accountability Act (HIPAA)"
+      },
+      "answer": "D",
+      "explanation": "The Health Insurance Portability and Accountability Act (HIPAA) is a federal law that provides data privacy and security provisions for safeguarding medical information. While the other options like ACA, CLIA, and HITECH Act have their specific focuses and regulations, HIPAA is specifically designed to protect the privacy and security of patients' medical information."
+    },
+    {
+      "question": "The term 'hyperglycemia' means:",
+      "options": {
+        "A": "Low blood sugar level",
+        "B": "Normal blood sugar level",
+        "C": "High blood sugar level",
+        "D": "Blood without sugar"
+      },
+      "answer": "C",
+      "explanation": "Hyperglycemia refers to a high blood sugar level. It does not pertain to a low (option A) or normal (option B) blood sugar level, nor does it mean blood without sugar (option D)."
+    },
+    {
+      "question": "In CPT coding, what does a modifier -25 indicate?",
+      "options": {
+        "A": "Repeat procedure by the same physician",
+        "B": "Bilateral procedure",
+        "C": "Multiple procedures",
+        "D": "Significant and separately identifiable evaluation and management service by the same physician on the same day of the procedure"
+      },
+      "answer": "D",
+      "explanation": "The -25 modifier in CPT coding indicates that the patient's condition required a significant, separately identifiable E/M service, above and beyond the other service provided or beyond the usual preoperative and postoperative care associated with the procedure that was performed."
+    },
+    {
+      "question": "According to the ICD-10-CM guidelines, when a patient has both an acute and chronic condition, which one should be sequenced first?",
+      "options": {
+        "A": "Acute condition",
+        "B": "Chronic condition",
+        "C": "Either - based on the severity",
+        "D": "The condition that is being treated during the visit"
+      },
+      "answer": "A",
+      "explanation": "Per ICD-10-CM coding guidelines, if a patient has both an acute and a chronic condition and separate codes are available for both, the code for the acute condition is sequenced first. The acute condition is often the reason for the patient's current medical encounter and requires more immediate attention."
+    },
+    {
+      "question": "What does the term 'cardiomyopathy' refer to?",
+      "options": {
+        "A": "Inflammation of the heart muscle",
+        "B": "Enlargement of the heart",
+        "C": "Disease of the heart muscle",
+        "D": "Blockage in the heart's arteries"
+      },
+      "answer": "C",
+      "explanation": "Cardiomyopathy refers to a disease of the heart muscle. It does not pertain to inflammation (option A), enlargement (option B), or blockage in the arteries (option D)."
+    }
+  ]
