@@ -33,7 +33,7 @@ retrieval_chain = RunnableParallel({
     "options": RunnablePassthrough()
 })
 
-samples_from_pdf = [
+'''samples_from_pdf = [
     {
         "question": "During a regular checkup, Dr. Stevens discovered a suspicious lesion on the floor of Paul's mouth and decided to perform an excision. Which CPT code covers the excision of an oral lesion?",
         "options": "A. 40800\nB. 41105\nC. 41113\nD. 40804",
@@ -64,8 +64,25 @@ samples_from_pdf = [
         "ground_truth": "D. 20005",
         "explanation": "CPT 20005 is for incision and drainage of soft tissue abscess. Other codes relate to different regions or types of incisions (e.g., complicated or deeper tissue)."
     }
-]
+]'''
 
+def load_formatted_questions(json_path):
+    with open(json_path, "r", encoding="utf-8") as f:
+        raw_questions = json.load(f)
+
+    formatted_samples = []
+    for q in raw_questions:
+        options_str = "\n".join([f"{key}. {value}" for key, value in q["options"].items()])
+        formatted_samples.append({
+            "question": q["question"],
+            "options": options_str,
+            "ground_truth": f'{q["correct_answer"]["option"]}. {q["correct_answer"]["value"]}',
+            "explanation": q["explanation"]
+        })
+
+    return formatted_samples
+
+samples_from_pdf = load_formatted_questions("data/parsed_data/final_parsed_questions.json")
 
 evaluation_data = []
 
