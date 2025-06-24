@@ -2,6 +2,9 @@ Aim
 - Build a RAG-based system that accurately answers multiple-choice questions on Medical Coding Questions
 
 Process to run this code:
+- Add your OpenAI API key:
+OpenAI API key must be added into .env
+
 - Create a virtual environment:
 python -m venv venv
 
